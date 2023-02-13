@@ -1,6 +1,16 @@
 {
   "compilerOptions": {
+    // "target": "esnext",
+    // "moduleResolution": "node",
+    // "allowSyntheticDefaultImports": true
+    // "lib": ["es5", "es6"],
     "target": "esnext",
-    "moduleResolution": "node"
+    // "module": "ESNext",
+    "moduleResolution": "node",
+    "outDir": "./build",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "sourceMap": true
   }
 }
