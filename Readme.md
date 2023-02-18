@@ -9,5 +9,5 @@ npm install
 ## start
 
 ```
-npx parcel "path" (ex "./chap5/main/index.ts")
+npx parcel "path" (ex "./chap5/main/index.html")
 ```
